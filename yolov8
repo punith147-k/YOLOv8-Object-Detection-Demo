@@ -1,0 +1,14 @@
+# YOLOv8 Object Detection Demo 🚀
+
+This repository demonstrates object detection using the **YOLOv8** model from [Ultralytics](https://github.com/ultralytics/ultralytics). It includes simple Python code to load an image, detect objects, display bounding boxes, and save the results.
+
+## 🔍 Model Info
+- Model used: `yolov11n.pt` (experimental)
+- Framework: Ultralytics YOLO
+- Input: Static image
+- Output: Image with detected objects and confidence scores
+
+## 🛠️ How to Use
+1. Install dependencies:
+   ```bash
+   pip install ultralytics opencv-python
